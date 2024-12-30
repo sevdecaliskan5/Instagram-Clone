@@ -47,9 +47,5 @@ Mobile and Desktop Compatibility: The page is designed to be viewed seamlessly o
 Basic social media interactions such as likes, comments, and shares are simulated on the post card.
 
 Icons and links have been added to allow users to interact easily.
- 
-🔭 Live Demo
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
 
 ![Instagram-GoogleChrome2024-11-1313-32-48-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c4817b8b-5b73-4146-badc-03f3bfa2f725)
